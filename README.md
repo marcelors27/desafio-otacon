@@ -61,7 +61,7 @@
 
 
 
-![Estrutura sugerida para longo prazo mantendo os módulos atuais](DigitalWalletDFD.png)
+![Estrutura sugerida para longo prazo mantendo os módulos atuais](DigitalWalletAfterDFD.png)
 
 
 
