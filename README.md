@@ -33,7 +33,7 @@
 
 
 
-![Estrutura sugerida para curto prazo mantendo os módulos atuais](.\DigitalWalletBeforeDFD.png)
+![Estrutura sugerida para curto prazo mantendo os módulos atuais](DigitalWalletBeforeDFD.png)
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-![Estrutura sugerida para longo prazo mantendo os módulos atuais](.\DigitalWalletDFD.png)
+![Estrutura sugerida para longo prazo mantendo os módulos atuais](DigitalWalletDFD.png)
 
 
 
@@ -90,7 +90,7 @@
 
     
 
-  ![Diagrama de sequencia da interface para arquivos CNAB](.\InterfaceSD.png)
+  ![Diagrama de sequencia da interface para arquivos CNAB](InterfaceSD.png)
 
 - **Internacionalização**
 
