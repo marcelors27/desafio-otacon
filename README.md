@@ -33,6 +33,8 @@
 
 ![Estrutura sugerida para curto prazo mantendo os módulos atuais](DigitalWalletBeforeDFD.png)
 
+[^Diag001]: Estrutura sugerida para curto prazo mantendo os módulos atuais
+
 
 
 - TomEE permite ***load balancing*** com **nginx** e geração dinâmica de instâncias de serviços sob demanda, colocaria então inicialmente um **limite** de **5 instâncias para o serviço de gestão de usuários** e **20 para o de transações financeiras** para poder avaliar o impacto na virada do mês.
@@ -58,6 +60,8 @@
 
 
 ![Estrutura sugerida para longo prazo mantendo os módulos atuais](DigitalWalletAfterDFD.png)
+
+[^Diag002]: Estrutura sugerida para longo prazo mantendo os módulos atuais
 
 
 
@@ -90,7 +94,7 @@
     
     ![Diagrama de sequencia da interface para arquivos CNAB](InterfaceSD.png)
 
-  [^Diagrama de sequencia da interface para arquivos CNAB]: Diagrama de sequencia da interface para arquivos CNAB
+  [^Diag003]: Diagrama de sequencia da interface para arquivos CNAB
 
   - **Métricas Importantes**: Geração de Arquivos CNBA por Minuto, Quantidade de Ações de Débito/Crédito por Segundo
 
